@@ -2,6 +2,8 @@
 
 A Discord bot that uses Google's Generative AI, capable of engaging in conversations and processing images.
 
+![](https://i.ibb.co/1vgDs6t/discord-bot.gif)
+
 ## Features
 
 - Responds to mentions, direct messages, and when its name is used
